@@ -24,15 +24,15 @@ MathWorks 提供了在线版 MATLAB，直接通过浏览器即可使用。注册
 *   **MATLAB Online (基础版 - 免费！)：** 每月免费提供 **20 小时**使用时间，可使用 **MATLAB + 10 款常用产品**（如Simulink）。非常适合学习、运行基础代码或他人分享的模型。**注册即用！**
 
 > 📌 **访问与信息：** 详情请参阅 [MathWorks MATLAB Online 官网](https://www.mathworks.com/products/matlab-online.html)
-> ![MATLAB Online 版本说明示意图](/Matlab123/img/01MATLAB%20Online.png) 
+> ![MATLAB Online 版本说明示意图](img/01MATLAB%20Online.png) 
 
 ### 💡 实用技巧：突破基础版限制
 
 *   **试用期：** 免费账号可申请 **30 天完整版试用**，体验所有功能。**(提示：需使用有效邮箱注册)**
 *   **“学习式白嫖”：** 善用 MathWorks 官网提供的**免费在线课程**！这些课程不仅用于学习，其附带的练习环境在课程结束后**通常可持续使用**，且**不限时**！这是进行长期实践的绝佳方式。
 
-    ![MathWorks 在线课程示例图](/Matlab123/img/02image-2.png) *(图：MathWorks 在线课程列表 )*
-    ![特定课程入口示例图](/Matlab123/img/03image.png) *(图：例如“统计入门”课程环境 -)*
+    ![MathWorks 在线课程示例图](img/02image-2.png) *(图：MathWorks 在线课程列表 )*
+    ![特定课程入口示例图](img/03image.png) *(图：例如“统计入门”课程环境 -)*
     在课程环境中，你完全可以运行自己的代码进行探索。例如，下面的代码在课程环境里就能画出一个漂亮的“冰淇淋锥体”：
 
 ```matlab
@@ -57,6 +57,6 @@ view(0, -18); % 设置视角
 colormap([0 0 1]); % 设置为蓝色
 axis off; % 关闭坐标轴
 ```
-![MathWorks 在线课程示例图](/Matlab123/img/04untitled1.png) *(冰激凌锥体 )*
+![MathWorks 在线课程示例图](img/04untitled1.png) *(冰激凌锥体 )*
 
 后续计划： 本系列教程将主要基于 MATLAB Online (基础版试用版) 来讲解基础操作和语法。其界面和功能与本地版 MATLAB 高度一致，学习体验无缝衔接。准备好，我们马上进入MATLAB的世界吧！
